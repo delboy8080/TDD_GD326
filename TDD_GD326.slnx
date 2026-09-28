@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="TDD_GD326/TDD_GD326.vcxproj" />
+  <Project Path="TestShoppingCart/TestShoppingCart.vcxproj" />
 </Solution>
